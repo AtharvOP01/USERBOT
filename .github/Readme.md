@@ -10,8 +10,8 @@
 
 
   
-  <img src="https://telegra.ph/file/14a5eb1c01732e912ee32.jpg">
-<h1 align="center">𝐃ɪᴄᴛᴀᴛᴏʀ 𝐔sᴇʀ𝐁ᴏᴛ</h1>
+  <img src="https://telegra.ph/file/5a8f069e3854e1542c11e.jpg">
+<h1 align="center">Pʀʀᴍɪᴜᴍ UsᴇʀBᴏᴛ</h1>
 
 
 
@@ -68,15 +68,6 @@
 
 ## 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 / 𝑪𝒉𝒂𝒏𝒏𝒆𝒍
 
-<p align="center"><a href="https://t.me/DEAD_GRPCHAT"><img src="https://img.shields.io/badge/𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼-𝚂𝚄𝙿𝙿𝙾𝚁𝚃-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/premiumopx"><img src="https://img.shields.io/badge/𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼-𝚂𝚄𝙿𝙿𝙾𝚁𝚃-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
 
-<p align="center"><a href="https://t.me/SAIFALLBOT"><img src="https://img.shields.io/badge/𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼-𝚄𝙿𝙳𝙰𝚃𝙴𝚂-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
-
-
-
-
-
-
-
-
-𝗙𝗨𝗟𝗟 𝗖𝗥𝗘𝗗𝗜𝗧  [𝐉𝐀𝐏𝐀𝐍𝐄𝐒𝐄-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓](https://github.com/Team-Japanese/Japanese-X-Userbot)
+<p align="center"><a href="https://t.me/premiumxop"
