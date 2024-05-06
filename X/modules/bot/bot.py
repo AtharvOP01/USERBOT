@@ -61,7 +61,7 @@ async def on_plug_in_cb(_, callback_query: CallbackQuery):
     this_command = f"──「 **𝐇ᴇʟᴘ 𝐅ᴏʀ {str(modul_name).upper()}** 」──\n\n"
     for x in commands:
         this_command += f"  •  **𝐂ᴏᴍᴍᴀɴᴅ:** `.{str(x)}`\n  •  **𝐅ᴜɴᴄᴛɪᴏɴ:** `{str(commands[x])}`\n\n"
-    this_command += "© @SAIF_DICTATOR"
+    this_command += "© @Premium5119"
     bttn = [
         [InlineKeyboardButton(text="╼⃝𖠁 ʀᴇᴛᴜʀɴ 𖠁⃝╾", callback_data="reopen")],
     ]
