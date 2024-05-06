@@ -11,15 +11,15 @@ from X.helpers.misc import create_botlog, heroku
 BOT_VER = "3.0.0"
 CMD_HANDLER = ["." "?" "!" "*"]
 MSG_ON = """
-✧✧ **𝐃ɪᴄᴛᴀᴛᴏʀ 𝐔sᴇʀ𝐁ᴏᴛ 𝐈s 𝐀ʟɪᴠᴇ** ✧✧
+✧✧ **Pʀᴇᴍɪᴜᴍ 𝐔sᴇʀ𝐁ᴏᴛ 𝐈s 𝐀ʟɪᴠᴇ** ✧✧
 ▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
 
-➥ **𝐃ɪᴄᴛᴀᴛᴏʀ 𝐕ᴇʀsɪᴏɴ 🥀 ** `{}`
-➥ **𝐓ʏᴘᴇ** **.alive** **𝐓ᴏ 𝐂ʜᴇᴄᴋ 𝐀ʟɪᴠᴇ 𝐎ғ 𝐃ɪᴄᴛᴀᴛᴏʀ 𝐔sᴇʀ𝐁ᴏᴛ**
+➥ **Pʀᴇᴍɪᴜᴍ 𝐕ᴇʀsɪᴏɴ 🥀 ** `{}`
+➥ **𝐓ʏᴘᴇ** **.alive** **𝐓ᴏ 𝐂ʜᴇᴄᴋ 𝐀ʟɪᴠᴇ 𝐎ғ Pʀᴇᴍɪᴜᴍ 𝐔sᴇʀ𝐁ᴏᴛ**
 ▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
-➥ 𝐎ᴡɴᴇʀ :- @SAIF_DICTATOR
-➥ 𝐆ʀᴘ :- @DEAD_GRPCHAT
-➥ 𝐂ʜᴀɴ :- @SAIFALLBOT
+➥ 𝐎ᴡɴᴇʀ :- @Premium5119
+➥ 𝐆ʀᴘ :- @premiumopx
+➥ 𝐂ʜᴀɴ :- @premiumxop
 ▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
 """
 
@@ -29,7 +29,7 @@ async def main():
     print("𝐋𝐎𝐆: 𝐅𝐨𝐮𝐧𝐝𝐞𝐝 𝐁𝐨𝐭 𝐭𝐨𝐤𝐞𝐧 𝐁𝐨𝐨𝐭𝐢𝐧𝐠..")
     for all_module in ALL_MODULES:
         importlib.import_module("X.modules" + all_module)
-        print(f"𝐃ɪᴄᴛᴀᴛᴏʀ 𝐔sᴇʀ𝐁ᴏᴛ 𝐒ᴜᴄᴄᴇssғᴜʟʟʏ 𝐈ᴍᴘᴏʀᴛᴇᴅ {all_module} ")
+        print(f"Pʀᴇᴍɪᴜᴍ 𝐔sᴇʀ𝐁ᴏᴛ 𝐒ᴜᴄᴄᴇssғᴜʟʟʏ 𝐈ᴍᴘᴏʀᴛᴇᴅ {all_module} ")
     for bot in bots:
         try:
             await bot.start()
@@ -39,7 +39,7 @@ async def main():
                 await bot.send_message(BOTLOG_CHATID, MSG_ON.format(BOT_VER, CMD_HANDLER))
             except BaseException:
                 pass
-            print(f"𝐘ᴏᴜʀ 𝐃ɪᴄᴛᴀᴛᴏʀ 𝐔sᴇʀ𝐁ᴏᴛ 𝐒ᴛᴀʀᴛᴇᴅ 𝐀s{ex.first_name} | {ex.id} ")
+            print(f"𝐘ᴏᴜʀ Pʀᴇᴍɪᴜᴍ 𝐔sᴇʀ𝐁ᴏᴛ 𝐒ᴛᴀʀᴛᴇᴅ 𝐀s{ex.first_name} | {ex.id} ")
             ids.append(ex.id)
         except Exception as e:
             print(f"{e}")
@@ -50,7 +50,7 @@ async def main():
 
 
 if __name__ == "__main__":
-    LOGGER("X").info("𝐷𝛪𝐶𝛵𝛥𝛵𝛩𝛤 𝑈𝑆𝛴𝛤𝛣𝛩𝛵 𝛪𝑆 𝑆𝛹𝛥𝛤𝛵𝛴𝐷 ✨")
+    LOGGER("X").info(" 𝙋𝙧𝙚𝙢𝙞𝙪𝙢 𝙐𝙨𝙚𝙧𝘽𝙤𝙩 𝙞𝙨 𝙨𝙩𝙖𝙧𝙩𝙚𝙙 ✨")
     install()
     heroku()
     LOOP.run_until_complete(main())
